@@ -4,7 +4,7 @@
   "description": "Pascals Backend using the frontend stuff",
   "main": "index.js",
   "dependencies": {
-    "pascals-frontend-stuff": "0.0.1"
+    "pascals-frontend-stuff": "^0.1.1"
   },
   "devDependencies": {},
   "scripts": {
